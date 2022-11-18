@@ -1,5 +1,8 @@
 # Art Gallery Location Analysis
 ###### Created by Jaime Luna, Nicholas Stein
+Dr. Clare McAndrew on the art market: "Independently moving submarkets that are defined by artists, genres, price points, and geographical locations."
+Here, we focus on the latter.
+
 The data for this analysis will be collected using publicly available datasets. The datasets will be obtained from census data, Foursquare API, and Satellite imagery.
 
 With this data, we will identify optimal locations to place art galleries with respect to revenue potential while considering operating costs. Essentially, this analysis is creating a neighborhood taxonomy. Each neighborhood will be individually assessed and ranked.
